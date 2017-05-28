@@ -1,0 +1,18 @@
+git init 
+
+git remote add origin https://github.com/meetbash/r-repo.git
+
+git add -A
+
+git commit -m "message"
+
+git push
+
+git checkout -b branchName
+
+git branch     (tells you which branch you are on)
+
+git checkout master
+
+
+
